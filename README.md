@@ -36,4 +36,20 @@ Tic Tac Toe has many variations that make it more challenging and interesting. S
 - Ultimate Tic Tac Toe: A game where each space in the 3x3 grid contains another 3x3 grid. To win, you need to form a row of three grids where you have won the inner game.
 - Quantum Tic Tac Toe: A game where each move consists of placing two marks in different spaces. The marks are in superposition until they are collapsed by forming a row with another mark.
 - Misère Tic Tac Toe: A game where the goal is to avoid forming a row of three marks of your type. The player who does so loses the game.
+- 
+## Colors
+- Idea for color ratiofor background i used,  found at site Coolors.co
+   ![Color for background](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/ba781757-8365-4d4f-977a-d8bf266c8cf0)
+
+
+
+
+
+
+
+
+
+
+
+
 
