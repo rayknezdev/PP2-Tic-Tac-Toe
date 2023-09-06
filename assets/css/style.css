@@ -1,0 +1,168 @@
+* {
+    padding: 0; 
+    margin: 0; 
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.background { 
+    background-image: linear-gradient(to top right, #080705, #40434e, #702632, #912f40, #fffffa);
+    height: 100vh;
+    padding-top: 1px; 
+}
+
+/* popup window for rules */
+.popup{  
+    position: fixed; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    display: none;
+}
+
+.popup-container { 
+    position: relative;
+    width: 450px;
+    height: 470px; 
+    background: #fff;
+    border-radius: 30px;
+    display: flex;
+    padding: 30px; 
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 10px 12px;
+}
+
+ .text-content { 
+    color: #6930C3;
+    text-align: center;
+    line-height: 2em;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+#close-rules {  
+    position: absolute;
+    border-radius: 10px;
+    padding: 10px;
+    bottom: 50px;
+    left:45%;
+    cursor: pointer;
+    z-index: 1;
+    text-align: center;
+    background: #fff;
+    border: 2px solid #6930C3;
+    color: #6930C3;
+  font-size: 16px;
+}
+/* responsive */ 
+@media screen and (max-width: 700px) and (min-height: 650px){ 
+    .popup-container { 
+        width: 300px; 
+        height: auto;
+        flex-direction: column;
+    }
+
+    .popup-container, .text-content { 
+        height: auto; 
+        text-align: center;
+        padding: 20px; 
+        padding-top: 0;
+        font-size: 15px;
+    }
+
+    #close-rules { 
+        bottom: 2px;
+        left: 145px;
+        padding: 5px; 
+        font-size: 10px;
+        text-align: center;
+
+    }
+}
+/* for the game */ 
+.title { 
+    color: #fff; 
+    text-shadow: 5px 1px 15px black;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 5%;
+}
+
+@media screen and (max-width: 500px) {
+    .title { 
+        font-size: 30px;
+    }
+}
+
+.display{ 
+    color: #fff;
+    text-shadow: 2px 2px 15px black; 
+    text-align: center;
+    font-size: 25px; 
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.hide { 
+    display: none;
+}
+
+/*  creates an equally sized 3x3 game board template using a grid */
+.container { 
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: 33.3% 33.3% 33.3%;
+    max-width: 300px;
+}
+
+/*  styles the game tiles */
+.tile { 
+    border: 1px solid #fff;
+    cursor: pointer; 
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+    min-width: 100px;
+}
+
+/* player X and O color determinator */ 
+.playerX { 
+    color: #219EBC;
+}
+
+.playerO { 
+    color: #FB8500;
+}
+
+.controls { 
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+}
+
+#reset-btn { 
+    background-color: #fff;
+    color: #6930C3;
+    box-shadow: 5px 10px 12px;
+    padding: 10px; 
+    border-radius: 10px;
+    border: none;
+    font-size: 20px; 
+    margin-left: 1em; 
+    cursor: pointer;
+}
+
+i { 
+    color:#6930C3;
+    font-size: 20px;
+    margin-left: 4px;
+}
+
+#reset-btn:hover { 
+    box-shadow: 5px 10px 5px;
+}
