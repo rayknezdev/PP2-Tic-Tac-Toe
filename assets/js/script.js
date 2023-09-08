@@ -1,12 +1,12 @@
 //adds audible feedback when a tile is clicked or game ends with a win/tie
 let audio = new Audio();
-audio.src = "assets/media/click.mp3";
+audio.src = "assets/media/mixkit-arcade-game-jump-coin-216.wav";
 audio.volume = 0.1;
 
-let winaudio = new Audio ('assets/media/winaudio.wav');
+let winaudio = new Audio ('assets/media/mixkit-animated-small-group-applause-523.wav');
 winaudio.volume = 0.3;
 
-let tieaudio = new Audio ('assets/media/tieaudio.wav');
+let tieaudio = new Audio ('assets/media/mixkit-player-losing-or-failing-2042.wav');
 tieaudio.volume = 0.3;  
 
 // variables
@@ -84,7 +84,7 @@ announce(TIE);
 let announce = (type) => {
     let announcer = document.querySelector('.announcer');
     switch(type){
-        case PLAYERO_WON:
+        case PLAYERO_WON: 
             announcer.innerHTML = 'Player <span class="playerO">O</span> Won!';
             break;
         case PLAYERX_WON:
