@@ -42,7 +42,7 @@ Tic Tac Toe has many variations that make it more challenging and interesting. S
    ![Color for background](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/ba781757-8365-4d4f-977a-d8bf266c8cf0)
 
 ## Credits
-For creating the code for Tic-Tac-Toe  game, I was free to search inspiration at DEV Community, place where coders share, stay-up to date and grow their careers.
+For creating the code for Tic-Tac-Toe  game, I was free to search inspiration at DEV Community, place where coders share, stay-up to date and grow their careers. 
 
 
 
