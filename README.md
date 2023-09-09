@@ -44,6 +44,9 @@ Tic Tac Toe has many variations that make it more challenging and interesting. S
 ## Credits
 For creating the code for Tic-Tac-Toe  game, I was free to search inspiration at DEV Community, place where coders share, stay-up to date and grow their careers. 
 
+## Bugs
+
+
 
 
 
