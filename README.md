@@ -1,4 +1,9 @@
 # PP2-Tic-Tac-Toe
+
+![am I responsive image](./assets/readme_files/ami_responsive.png)
+
+
+
 Tic Tac Toe is a classic two-player game where each player takes turns marking the spaces in a 3x3 grid with either an X or an O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
 ## How to play
