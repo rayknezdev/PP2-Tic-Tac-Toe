@@ -167,25 +167,17 @@ Sure, here are some user stories for a Tic Tac Toe game:
 JSHint.com showed no errors but showed 43 warnings.
 
 
-
-
-
-
-
-  
-
-
-
-
-
- 
-
-
-
 ## Credits
-For creating the code for Tic-Tac-Toe  game, I was free to search inspiration at DEV Community, place where coders share, stay-up to date and grow their careers. 
 
-## Bugs
+- For creating the code for Tic-Tac-Toe  game, I was free to search inspiration at DEV Community, place where coders share, stay-up to date and grow their careers. 
+Also I was free to search inspiration at Github , reading projects that were previously done.
+- To thank Slack community, especially one indvidual.
+- To thank my mentor
+- To thank Code Institute providing me material and chance to learn and to maintain in learning. 
+
+
+
+
 
 
 
