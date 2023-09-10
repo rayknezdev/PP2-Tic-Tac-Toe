@@ -87,9 +87,8 @@ Sure, here are some user stories for a Tic Tac Toe game:
   [Am I Responsive](http://ami./responsivedesign.is/)-To show games image on a range of devices
 
 
-Google Fonts - To import the fonts used on the website.
 
-Am I Responsive? To show the website image on a range of devices.
+
 
  
 
