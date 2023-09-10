@@ -54,7 +54,8 @@
     color: #6930C3;
   font-size: 16px;
 }
-/* responsive */ 
+/* responsive */
+
 @media screen and (max-width: 700px) and (min-height: 650px){ 
     .popup-container { 
         width: 300px; 
