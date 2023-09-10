@@ -94,6 +94,7 @@ Sure, here are some user stories for a Tic Tac Toe game:
 - As a user, I want the game to keep track of scores if I play multiple rounds so that it adds a competitive element to the game.
 
  ##  Technologies Used
+ 
   #  Languages Used
   
   HyperText Markup Language(HTML), Cascading Style Sheet(CSS), JavaScript(JS) were used to create this game.
@@ -165,6 +166,8 @@ Sure, here are some user stories for a Tic Tac Toe game:
 ## JavaScript
 
 JSHint.com showed no errors but showed 43 warnings.
+
+## Lighthouse
 
 
 ## Credits
