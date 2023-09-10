@@ -148,6 +148,7 @@ Sure, here are some user stories for a Tic Tac Toe game:
     Huawei p30pro
 
 # Bugs   
+
 - I had a proble to push code from Gitpod to Github. It just didnt want to be saved. Problem was a the platform it self. After 2 days it was fix.
 - While checking responsivenes I noticed that at tablet size game frame, with it small part, is visible under pop up box. I couldnt fix it till my project due time.
 
