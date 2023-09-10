@@ -155,6 +155,21 @@ Sure, here are some user stories for a Tic Tac Toe game:
 
 ## Html
 
+![Html](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/1e6ad495-bf83-4472-bcb4-b75b00f7d468)
+
+## Css
+
+![CSS](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/f32b926d-5818-4a37-a582-3376de7f71c6)
+
+## JavaScript
+
+JSHint.com showed no errors but showed 43 warnings.
+
+
+
+
+
+
 
   
 
