@@ -47,6 +47,10 @@ Tic Tac Toe has many variations that make it more challenging and interesting. S
 
 - Idea for color ratiofor background i used,  found at site Coolors.co ![Color for background](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/ba781757-8365-4d4f-977a-d8bf266c8cf0)
 
+## Fonts
+
+- [Google](https://fonts.google.com/)- used to find inspiration about what font I could use.  
+
 
  # Features
 
@@ -99,6 +103,54 @@ Sure, here are some user stories for a Tic Tac Toe game:
   [Google Fonts](https://fonts.google.com/)-To import the fonts.
   
   [Am I Responsive](http://ami./responsivedesign.is/)-To show games image on a range of devices
+
+  # Deployment
+  Github Pages was used to deploy live website. The instructions are below.
+  Log in (or sign up) to Github.com. Find the repository for this project, rayknezdev/PP2-Tic-Tac-Toe.Click on the Settings link. 
+  Click on the Pages link in the left hand side navigation bar. In the Source section, choose main from the drop down select 
+  branch menu. Select Root from the drop down select folder menu. Your live Github Pages site is now deployed at the URL shown.
+
+  ## Local development
+
+   How to Fork?
+   To fork the PP1 repository: 
+   Log in (or sign up) to Github. Go to the repository for this project, https://github.com/rayknezdev/PP2-Tic-Tac-Toe.
+   Click the Fork button in the top right corner.
+
+  ## How to Clone
+    To clone the PP1 repository:
+  Log in (or sign up) to GitHub. Go to the repository for this project,https://github.com/rayknezdev/PP2-Tic-Tac-Toe. Click on the 
+  code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown. Open the terminal in 
+  your code editor and change the current working directory to the location you want to use for the cloned directory. Type 'git 
+  clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+  # Testing
+  
+    On completion the site was tested across multiple browsers and platforms. The site has been built using Chrome, therefore it was also tested across Microsoft Edge and Firefox for 
+    desktops and larger screen sizes, whilst tested using Safari and Chrome on mobile and tablet devices.
+
+    Screen Testing The site was screen tested for reponsiveness locally using Chrome developer tools and also across real devices. These included:
+
+    Desktops and Monitors
+
+    Large HD desktop monitor
+
+    Standard PC monitor
+
+    Laptop Asus, and HP
+
+    Phones and Tablets (landscape and portrait)
+
+    iPhone Xr
+
+    iPhone 11
+
+    Huawei p30pro
+
+# Bugs   
+- I had a proble to push code from Gitpod to Github. It just didnt want to be saved. Problem was a the platform it self. After 2 days it was fix.
+- While checking responsivenes I noticed that at tablet size game frame, with it small part, is visible under pop up box. Mistake is at code, CSS
+  
 
 
 
