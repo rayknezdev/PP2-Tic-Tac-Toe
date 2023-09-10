@@ -7,7 +7,7 @@
 
 Tic Tac Toe is a classic two-player game where each player takes turns marking the spaces in a 3x3 grid with either an X or an O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
-## How to play
+## How to play 
 
 To play Tic Tac Toe, you need a 3x3 grid and two players. You can use a paper and a pencil, or any other materials that can create a grid and mark the spaces. Alternatively, you can play Tic Tac Toe online using a website or an app.
 
