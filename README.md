@@ -44,23 +44,37 @@ Tic Tac Toe has many variations that make it more challenging and interesting. S
 - Misère Tic Tac Toe: A game where the goal is to avoid forming a row of three marks of your type. The player who does so loses the game.
   
 ## Colors
+
 - Idea for color ratiofor background i used,  found at site Coolors.co ![Color for background](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/ba781757-8365-4d4f-977a-d8bf266c8cf0)
 
 
-## Features
+ # Features
 
-
+ ## Pop-up Box
  ![Pop up](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/768ee23d-a3e3-4c0d-a262-198913609afb)
  
 - First experience players can see is the pop up box, where they could renew their knowledge about rules of the game.
-  
+
+ # Header
+
  ![Header](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/254dafe7-3d0e-4199-b9a2-2a8a7f9d5a2c)
 
 - We could see the name of the game with second row explaining who is next to play.
 
+ # Reset Button 
+
 ![reset](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/3b434869-3f53-4a54-a160-3973f31909e7)
 
-At the bottom of the game board is a reset button. It allows players to start from begining. 
+-At the bottom of the game board is a reset button. It allows players to start from begining. 
+
+# Sound 
+
+![Audio](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/cb3d5c6f-47e0-466e-8953-e54fdad2b9e4)
+
+- Diferent Sound following Win or Tie result. I write it with the help of Bing AI chat box.
+
+
+
 
 ## User Stories
 Sure, here are some user stories for a Tic Tac Toe game:
