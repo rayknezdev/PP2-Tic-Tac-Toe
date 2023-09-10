@@ -42,16 +42,38 @@ Tic Tac Toe has many variations that make it more challenging and interesting. S
 - Ultimate Tic Tac Toe: A game where each space in the 3x3 grid contains another 3x3 grid. To win, you need to form a row of three grids where you have won the inner game.
 - Quantum Tic Tac Toe: A game where each move consists of placing two marks in different spaces. The marks are in superposition until they are collapsed by forming a row with another mark.
 - Misère Tic Tac Toe: A game where the goal is to avoid forming a row of three marks of your type. The player who does so loses the game.
-- 
+  
 ## Colors
-- Idea for color ratiofor background i used,  found at site Coolors.co
-   ![Color for background](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/ba781757-8365-4d4f-977a-d8bf266c8cf0)
+- Idea for color ratiofor background i used,  found at site Coolors.co ![Color for background](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/ba781757-8365-4d4f-977a-d8bf266c8cf0)
+
 
 ## Features
-- ![Pop up](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/768ee23d-a3e3-4c0d-a262-198913609afb)
-  First experience players can see is the pop up box, where they could renew their knowledge about rules of the game.
-- ![Header](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/254dafe7-3d0e-4199-b9a2-2a8a7f9d5a2c)
-  We could see the name of the game with second row explaining who is next to play.
+
+
+ ![Pop up](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/768ee23d-a3e3-4c0d-a262-198913609afb)
+ 
+- First experience players can see is the pop up box, where they could renew their knowledge about rules of the game.
+  
+ ![Header](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/254dafe7-3d0e-4199-b9a2-2a8a7f9d5a2c)
+
+- We could see the name of the game with second row explaining who is next to play.
+
+![reset](https://github.com/rayknezdev/PP2-Tic-Tac-Toe/assets/135096185/3b434869-3f53-4a54-a160-3973f31909e7)
+
+At the bottom of the game board is a reset button. It allows players to start from begining. 
+
+## User Stories
+Sure, here are some user stories for a Tic Tac Toe game:
+
+- As a user, I want to start a new game so that I can play Tic Tac Toe.
+- As a user, I want to be able to choose between playing against the computer or another player so that I can have different levels of challenge.
+- As a user, I want to be able to choose my symbol (X or O) so that I can have my personal preference.
+- As a user, I want to see the game board after each turn so that I can understand the current state of the game.
+- As a user, I want to be able to click on an empty square to make my move so that I can play the game.
+-  As a user, I want the game to not allow invalid moves so that the game is fair and follows the rules.
+- As a user, I want the game to notify me when someone has won, or if it's a draw so that I know the result of the game.
+- As a user, I want an option to play again after the game is over so that I can enjoy multiple rounds of the game.
+- As a user, I want the game to keep track of scores if I play multiple rounds so that it adds a competitive element to the game.
 
  
 
