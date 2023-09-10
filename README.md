@@ -75,6 +75,22 @@ Sure, here are some user stories for a Tic Tac Toe game:
 - As a user, I want an option to play again after the game is over so that I can enjoy multiple rounds of the game.
 - As a user, I want the game to keep track of scores if I play multiple rounds so that it adds a competitive element to the game.
 
+ ##  Technologies Used
+  #  Languages Used
+  
+  HyperText Markup Language(HTML), Cascading Style Sheet(CSS), JavaScript(JS) were used to create this game.
+  
+  [Github](https://www.github.com/) - To save and store the files.
+  
+  [Google Fonts](https://fonts.google.com/)-To import the fonts.
+  
+  [Am I Responsive](http://ami./responsivedesign.is/)-To show games image on a range of devices
+
+
+Google Fonts - To import the fonts used on the website.
+
+Am I Responsive? To show the website image on a range of devices.
+
  
 
 
